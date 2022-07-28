@@ -56,7 +56,7 @@ images:
     productBanner:       "banner.png"
     productIcon:         "icon.svg"
     productLogo:         "logo.svg"
-    #productWallpaper:    "wallpaper.png"
+    #productWallpaper:   "wallpaper.png"
     productWelcome:      "welcome.png"
 
 ## Colors for text and background components in sidebar only.
